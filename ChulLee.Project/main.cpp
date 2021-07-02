@@ -39,9 +39,16 @@ void featureChulLee2() {
     cout << "chul lee feature 2\n";
 }
 
+
 void CHULLEE1() {
     cout << "Chul Lee 1";
 }
+
+void chulan1() {
+    cout << "chulan 1";
+}
+
+
 
 
 
