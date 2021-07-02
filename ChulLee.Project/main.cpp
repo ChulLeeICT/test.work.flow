@@ -20,4 +20,7 @@ int main(int argc, const char * argv[]) {
 
 void chuLanFeature () {
     cout << "chu lan feature\n";
+    cout << "hoan thanh feature";
 }
+
+
