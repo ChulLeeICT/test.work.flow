@@ -48,9 +48,17 @@ void chulan1() {
     cout << "chulan 1";
 }
 
+
 void CHULLEE2() {
     // Chullee 2
 }
+
+void chulan2() {
+    // chu lan 2
+}
+
+
+
 
 
 
