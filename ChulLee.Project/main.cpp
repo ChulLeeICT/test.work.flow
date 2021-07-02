@@ -23,9 +23,12 @@ void chuLanFeature () {
     cout << "hoan thanh feature";
 }
 
-
 void chuLanFeature2() {
     cout << "Chu Lan hoan thanh feature 2";
+}
+
+void chuLanFeature3() {
+    cout << "Chu Lan 3";
 }
 
 void featureChulLee() {
@@ -35,5 +38,8 @@ void featureChulLee() {
 void featureChulLee2() {
     cout << "chul lee feature 2\n";
 }
+
+
+
 
 
